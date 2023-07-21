@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.deps.json
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.dll
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\bin\Debug\net6.0\SipayApi.Base.pdb
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.dll
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\refint\SipayApi.Base.dll
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\SipayApi.Base.pdb
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Base\obj\Debug\net6.0\ref\SipayApi.Base.dll

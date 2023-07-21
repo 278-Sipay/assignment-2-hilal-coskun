@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\bin\Debug\net6.0\SipayApi.Data.deps.json
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\bin\Debug\net6.0\SipayApi.Data.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\bin\Debug\net6.0\SipayApi.Data.dll
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\bin\Debug\net6.0\SipayApi.Data.pdb
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\bin\Debug\net6.0\SipayApi.Base.dll
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\bin\Debug\net6.0\SipayApi.Base.pdb
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.dll
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\refint\SipayApi.Data.dll
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.pdb
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\SipayApi.Data.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\assignment-2-hilal-coskun\assignment-2\SipayApi.Data\obj\Debug\net6.0\ref\SipayApi.Data.dll
